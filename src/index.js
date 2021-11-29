@@ -1,4 +1,1 @@
-import {saludar} from './js/componentes';
-import './styles.css';
-
-saludar('Tomas')
+import * as CRUD from './js/solana';
